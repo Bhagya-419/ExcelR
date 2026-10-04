@@ -16,7 +16,7 @@ public class NestedIfElse2 {
 		else if(salary>=50000) {
 			System.out.println("Good");
 		}
-		else if(salary>=40000) {
+		else if(salary>=25000) {
 			System.out.println("Ok");
 		}
 		else {
